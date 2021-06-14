@@ -2,6 +2,7 @@
 1. install docker
 1. open terminal and cd to the project root folder
 1. run the command `docker-compose run web python manage.py migrate && docker-compose up`
+1. if an error message appears, run the command again :(
 
 ## Able to complete
 1. create record with non-existing customer Id, subscription Id and gift Id
